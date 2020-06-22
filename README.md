@@ -10,6 +10,7 @@ Orginally wrote these scripts probably two years ago, here
 was the original goal of it all:
 
 ######### Time Travel to 2018 #############
+
 So the goal is to take the mol file that Curtis sent me with the "guessed"
 hydroxyl locations. I believe vina makes the ligand flexible, so we
 don't actually need to do stereochemistry (hence 0 everywhere in Z)
