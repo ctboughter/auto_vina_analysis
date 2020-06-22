@@ -1,0 +1,603 @@
+MODEL 1
+REMARK VINA RESULT:      -5.8      0.000      0.000
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -15.356  -5.096   4.872  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -15.438  -3.577   4.996  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -14.059  -2.919   4.988  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -13.983  -1.801   6.026  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -12.610  -1.713   6.689  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -11.974  -3.096   6.853  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -10.983  -3.114   8.022  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -10.230  -4.438   8.158  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101      -9.714  -4.950   6.826  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -13.976  -5.554   4.394  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -13.776  -7.059   4.605  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -14.974  -7.737   5.279  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -14.559  -8.765   6.336  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -15.677  -9.728   6.741  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -15.164 -10.959   7.502  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -13.690 -10.797   7.838  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -13.355 -11.317   8.886  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.7      1.272      2.197
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -15.779  -6.516   5.407  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -15.385  -5.179   4.786  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -13.870  -5.023   4.659  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -13.468  -3.550   4.712  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -12.496  -3.252   5.853  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -11.739  -4.509   6.290  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -10.633  -4.168   7.295  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -11.123  -3.322   8.471  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -10.461  -1.956   8.517  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -14.812  -7.634   5.010  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -14.500  -8.557   6.194  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -15.667  -9.480   6.563  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -15.260 -10.598   7.528  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -14.071 -11.433   7.049  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -13.352 -12.166   8.190  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -11.998 -12.675   7.721  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -11.290 -11.822   7.220  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.5      1.786      3.978
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -14.348  -8.692   6.181  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -14.534  -7.352   5.474  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -13.748  -7.271   4.167  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -13.531  -5.818   3.749  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -14.243  -4.834   4.676  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -13.445  -3.537   4.839  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -12.387  -3.674   5.941  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -12.369  -2.494   6.913  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -11.172  -2.530   7.845  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -15.685  -9.299   6.610  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -15.485 -10.542   7.485  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -14.033 -10.737   7.933  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -13.740 -12.165   8.402  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -13.082 -12.246   9.780  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -12.183 -13.479   9.946  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -11.301 -13.660   8.720  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -10.358 -12.894   8.666  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.5      2.718      7.216
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -13.649  -6.964   4.188  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -13.739  -7.425   5.640  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -14.992  -8.258   5.907  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -14.640  -9.552   6.638  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -15.801 -10.545   6.659  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -15.758 -11.435   7.903  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -14.365 -11.426   8.542  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -13.963 -12.774   9.142  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -12.799 -12.655  10.108  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -14.354  -5.622   3.973  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -14.200  -4.703   5.189  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -13.247  -3.528   4.940  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -12.354  -3.220   6.145  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -11.330  -4.313   6.458  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -10.594  -4.086   7.786  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -10.957  -2.728   8.367  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -10.018  -1.962   8.471  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.5      2.678      7.827
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -13.834  -7.211   3.891  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -13.857  -7.481   5.393  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -15.184  -8.081   5.855  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -14.956  -9.381   6.623  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -16.258  -9.986   7.145  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -16.023 -11.351   7.797  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -17.310 -12.183   7.817  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -18.333 -11.745   6.767  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -18.875 -12.913   5.964  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -13.571  -5.735   3.582  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -14.044  -4.827   4.723  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -13.148  -3.601   4.929  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -13.853  -2.468   5.680  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -12.937  -1.674   6.613  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -12.473  -2.483   7.833  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -10.954  -2.541   7.883  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -10.508  -3.123   8.853  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.1      3.838      7.080
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -14.071 -12.535   8.404  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -13.998 -11.023   8.208  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -14.286 -10.611   6.766  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -15.139  -9.345   6.721  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -14.490  -8.234   5.898  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -15.509  -7.166   5.491  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -15.300  -6.726   4.038  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -13.842  -6.404   3.705  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -13.246  -7.382   2.709  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -13.045 -13.027   9.428  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -12.172 -14.150   8.857  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -12.166 -14.190   7.325  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -11.972 -15.602   6.766  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -12.176 -15.707   5.253  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -12.799 -14.444   4.641  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -11.838 -13.810   3.646  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -11.212 -12.866   4.089  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.1      2.694      3.858
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -14.379  -7.739   5.362  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -14.830  -6.874   4.188  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -13.897  -5.687   3.950  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -13.927  -4.725   5.135  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -13.100  -3.465   4.884  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -13.575  -2.298   5.754  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -13.189  -2.509   7.222  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -11.734  -2.153   7.525  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -10.902  -3.370   7.887  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -15.558  -8.172   6.235  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -15.525  -9.677   6.522  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -16.528 -10.109   7.597  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -16.819 -11.612   7.571  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -17.797 -12.039   6.475  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -19.245 -11.618   6.763  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -20.211 -12.698   6.302  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -19.674 -13.718   5.915  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.1      1.492      2.793
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -13.802  -7.495   5.437  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -13.523  -6.491   4.322  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -14.314  -5.196   4.497  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -13.388  -4.037   4.861  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -14.105  -2.688   4.836  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -13.659  -1.792   5.994  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -13.185  -2.627   7.189  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -11.754  -2.308   7.623  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -10.843  -3.520   7.553  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -15.300  -7.766   5.596  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -15.567  -8.877   6.618  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -14.544 -10.015   6.552  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -14.115 -10.512   7.936  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -14.517 -11.957   8.232  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -15.777 -12.065   9.102  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -15.924 -13.478   9.647  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -14.927 -14.164   9.533  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.0      2.902      4.268
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C3_4  and  C4_5 
+REMARK    4  A    between atoms: C4_5  and  C5_6 
+REMARK    5  A    between atoms: C5_6  and  C6_7 
+REMARK    6  A    between atoms: C6_7  and  C7_8 
+REMARK    7  A    between atoms: C7_8  and  C8_9 
+REMARK    8  A    between atoms: C8_9  and  C9_10 
+REMARK    9  A    between atoms: C9_10  and  CA_11 
+REMARK   10  A    between atoms: CA_11  and  CB_12 
+REMARK   11  A    between atoms: CB_12  and  CC_13 
+REMARK   12  A    between atoms: CC_13  and  CD_14 
+REMARK   13  A    between atoms: CD_14  and  CE_15 
+REMARK   14  A    between atoms: CE_15  and  CF_16 
+ROOT
+ATOM      1  C8  PLM C 101     -14.419  -8.098   5.938  1.00 51.77     0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C9  PLM C 101     -15.065  -6.984   5.118  1.00 51.02     0.000 C 
+BRANCH   2   3
+ATOM      3  CA  PLM C 101     -14.292  -6.687   3.834  1.00 51.28     0.000 C 
+BRANCH   3   4
+ATOM      4  CB  PLM C 101     -13.602  -5.327   3.916  1.00 51.54     0.000 C 
+BRANCH   4   5
+ATOM      5  CC  PLM C 101     -14.365  -4.339   4.797  1.00 52.96     0.000 C 
+BRANCH   5   6
+ATOM      6  CD  PLM C 101     -13.528  -3.093   5.100  1.00 53.21     0.000 C 
+BRANCH   6   7
+ATOM      7  CE  PLM C 101     -13.063  -3.081   6.561  1.00 53.13    -0.000 C 
+BRANCH   7   8
+ATOM      8  CF  PLM C 101     -11.562  -3.329   6.722  1.00 53.03    -0.005 C 
+ATOM      9  CG  PLM C 101     -11.210  -4.804   6.664  1.00 52.20     0.005 C 
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C7  PLM C 101     -15.369  -9.281   6.139  1.00 51.64     0.000 C 
+BRANCH  10  11
+ATOM     11  C6  PLM C 101     -14.967 -10.128   7.351  1.00 53.10     0.000 C 
+BRANCH  11  12
+ATOM     12  C5  PLM C 101     -16.164 -10.761   8.069  1.00 52.83     0.000 C 
+BRANCH  12  13
+ATOM     13  C4  PLM C 101     -17.510 -10.245   7.550  1.00 54.55     0.000 C 
+BRANCH  13  14
+ATOM     14  C3  PLM C 101     -18.293  -9.415   8.568  1.00 56.27     0.007 C 
+BRANCH  14  15
+ATOM     15  C2  PLM C 101     -19.716  -9.940   8.806  1.00 58.91     0.069 C 
+BRANCH  15  16
+ATOM     16  C1  PLM C 101     -20.654  -8.791   9.145  1.00 61.04     0.231 C 
+ATOM     17  O2  PLM C 101     -20.661  -7.893   8.326  1.00 62.11    -0.307 OA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
+ENDMDL

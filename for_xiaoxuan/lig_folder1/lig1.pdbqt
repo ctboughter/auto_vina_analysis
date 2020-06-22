@@ -1,0 +1,213 @@
+REMARK WARNING: 32 MAX_TORS EXCEEDED!!!
+REMARK  47 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAA_1  and  CAB_2 
+REMARK       I    between atoms: CAA_1  and  N2_31 
+REMARK    2  A    between atoms: CAB_2  and  CAC_3 
+REMARK    3  A    between atoms: CAC_3  and  CAD_4 
+REMARK    4  A    between atoms: CAD_4  and  CAE_5 
+REMARK    5  A    between atoms: CAE_5  and  CAF_6 
+REMARK    6  A    between atoms: CAF_6  and  CAG_7 
+REMARK    7  A    between atoms: CAG_7  and  CAH_8 
+REMARK    8  A    between atoms: CAH_8  and  CAI_9 
+REMARK    9  A    between atoms: CAI_9  and  CAJ_10 
+REMARK   10  A    between atoms: CAJ_10  and  CAK_11 
+REMARK   11  A    between atoms: CAK_11  and  CAL_12 
+REMARK   12  A    between atoms: CAL_12  and  CAM_13 
+REMARK   13  A    between atoms: CAM_13  and  CAN_14 
+REMARK   14  A    between atoms: CAN_14  and  CAO_15 
+REMARK   15  A    between atoms: CAP_16  and  CAQ_17 
+REMARK   16  A    between atoms: CAQ_17  and  CAR_18 
+REMARK   17  A    between atoms: CAR_18  and  CAS_19 
+REMARK   18  A    between atoms: CAS_19  and  CAT_20 
+REMARK   19  A    between atoms: CAT_20  and  CAU_21 
+REMARK   20  A    between atoms: CAU_21  and  CAV_22 
+REMARK   21  A    between atoms: CAV_22  and  CAW_23 
+REMARK   22  A    between atoms: C1_26  and  O1A_28 
+REMARK   23  A    between atoms: C1_26  and  C2_29 
+REMARK   24  A    between atoms: C1A_27  and  O1A_28 
+REMARK   25  A    between atoms: C2_29  and  N2_31 
+REMARK   26  A    between atoms: C2_29  and  C3_35 
+REMARK   27  A    between atoms: C2A_30  and  O2A_33 
+REMARK   28  A    between atoms: C3_35  and  C4_41 
+REMARK   29  A    between atoms: C3_35  and  O3_37 
+REMARK   30  A    between atoms: C3A_36  and  O3A_39 
+REMARK   31  A    between atoms: C4_41  and  C5_47 
+REMARK   32  A    between atoms: C4_41  and  O4_43 
+REMARK   33  A    between atoms: C4A_42  and  O4A_45 
+REMARK   34  A    between atoms: C5_47  and  C6_51 
+REMARK   35  A    between atoms: C5M_48  and  C6A_52 
+REMARK   36  A    between atoms: O6A_49  and  C6A_52 
+REMARK   37  A    between atoms: C6_51  and  C7_54 
+REMARK   38  A    between atoms: C7_54  and  C8_55 
+REMARK   39  A    between atoms: C8_55  and  C9_56 
+REMARK   40  A    between atoms: C9_56  and  C10_57 
+REMARK   41  A    between atoms: C10_57  and  C11_58 
+REMARK   42  A    between atoms: C11_58  and  C12_59 
+REMARK   43  A    between atoms: C12_59  and  C13_60 
+REMARK   44  A    between atoms: C13_60  and  C14_61 
+REMARK   45  A    between atoms: C14_61  and  C15_62 
+REMARK   46  A    between atoms: C15_62  and  C16_63 
+REMARK   47  A    between atoms: C16_63  and  C17_64 
+ROOT
+ATOM      1  C2  JLS C 303      23.312  -7.467  16.647  1.00 46.50     0.139 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C1  JLS C 303      24.176  -8.097  15.559  1.00 46.25     0.199 C 
+BRANCH   2   3
+ATOM      3  O1A JLS C 303      24.813  -7.071  14.799  1.00 43.92    -0.356 OA
+BRANCH   3   4
+ATOM      4  C1A JLS C 303      26.172  -7.324  14.443  1.00 41.58     0.291 C 
+ATOM      5  O5A JLS C 303      26.291  -8.369  13.465  1.00 41.02    -0.348 OA
+ATOM      6  C5M JLS C 303      25.573  -8.209  12.218  1.00 39.69     0.179 C 
+ATOM      7  C4A JLS C 303      25.970  -6.889  11.536  1.00 37.95     0.180 C 
+ATOM      8  C3A JLS C 303      25.975  -5.709  12.524  1.00 39.43     0.183 C 
+ATOM      9  C2A JLS C 303      26.720  -6.039  13.825  1.00 41.34     0.204 C 
+BRANCH   6  10
+ATOM     10  C6A JLS C 303      25.759  -9.440  11.357  1.00 40.99     0.198 C 
+BRANCH  10  11
+ATOM     11  O6A JLS C 303      25.269 -10.562  12.101  1.00 43.00    -0.398 OA
+ATOM     12  H6A JLS C 303      25.386 -11.335  11.561  1.00  0.00     0.209 HD
+ENDBRANCH  10  11
+ENDBRANCH   6  10
+BRANCH   7  13
+ATOM     13  O4A JLS C 303      27.209  -7.005  10.834  1.00 36.96    -0.390 OA
+ATOM     14  H4A JLS C 303      27.454  -6.190  10.413  1.00  0.00     0.210 HD
+ENDBRANCH   7  13
+BRANCH   8  15
+ATOM     15  O3A JLS C 303      26.499  -4.524  11.915  1.00 40.20    -0.390 OA
+ATOM     16  H3A JLS C 303      26.502  -3.796  12.525  1.00  0.00     0.210 HD
+ENDBRANCH   8  15
+BRANCH   9  17
+ATOM     17  O2A JLS C 303      26.637  -4.973  14.776  1.00 42.90    -0.388 OA
+ATOM     18  H2A JLS C 303      26.978  -4.174  14.392  1.00  0.00     0.210 HD
+ENDBRANCH   9  17
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  19
+ATOM     19  N2  JLS C 303      22.084  -6.979  16.036  1.00 45.49    -0.352 N 
+ATOM     20  CAA JLS C 303      20.997  -7.713  15.813  1.00 47.40     0.218 C 
+ATOM     21  OAA JLS C 303      20.943  -8.920  16.022  1.00 49.90    -0.274 OA
+ATOM     22  H2  JLS C 303      22.055  -5.998  15.757  1.00  0.00     0.163 HD
+BRANCH  20  23
+ATOM     23  CAB JLS C 303      19.830  -6.929  15.242  1.00 45.63     0.103 C 
+BRANCH  23  24
+ATOM     24  CAC JLS C 303      18.502  -7.661  15.382  1.00 45.31     0.009 C 
+BRANCH  24  25
+ATOM     25  CAD JLS C 303      17.605  -7.164  16.497  1.00 47.90     0.000 C 
+BRANCH  25  26
+ATOM     26  CAE JLS C 303      16.683  -8.309  16.907  1.00 50.20     0.000 C 
+BRANCH  26  27
+ATOM     27  CAF JLS C 303      15.518  -7.853  17.781  1.00 50.32     0.000 C 
+BRANCH  27  28
+ATOM     28  CAG JLS C 303      14.754  -9.073  18.277  1.00 50.93     0.000 C 
+BRANCH  28  29
+ATOM     29  CAH JLS C 303      13.563  -8.700  19.157  1.00 54.06     0.000 C 
+BRANCH  29  30
+ATOM     30  CAI JLS C 303      13.928  -8.739  20.640  1.00 57.04     0.000 C 
+BRANCH  30  31
+ATOM     31  CAJ JLS C 303      12.813  -9.299  21.516  1.00 57.21     0.000 C 
+BRANCH  31  32
+ATOM     32  CAK JLS C 303      13.343 -10.432  22.394  1.00 59.40     0.000 C 
+BRANCH  32  33
+ATOM     33  CAL JLS C 303      12.212 -11.130  23.150  1.00 61.03     0.000 C 
+BRANCH  33  34
+ATOM     34  CAM JLS C 303      12.160 -12.636  22.907  1.00 61.76     0.004 C 
+BRANCH  34  35
+ATOM     35  CAN JLS C 303      11.185 -12.971  21.781  1.00 61.49     0.027 C 
+BRANCH  35  36
+ATOM     36  CAO JLS C 303      10.385 -14.206  22.130  1.00 61.54    -0.031 C 
+ATOM     37  CAP JLS C 303       9.745 -14.954  21.226  1.00 60.21    -0.031 C 
+BRANCH  37  38
+ATOM     38  CAQ JLS C 303       9.734 -14.699  19.730  1.00 57.13     0.027 C 
+BRANCH  38  39
+ATOM     39  CAR JLS C 303       8.439 -14.011  19.306  1.00 54.04     0.004 C 
+BRANCH  39  40
+ATOM     40  CAS JLS C 303       7.961 -14.462  17.929  1.00 53.87     0.000 C 
+BRANCH  40  41
+ATOM     41  CAT JLS C 303       8.592 -13.663  16.787  1.00 54.31     0.000 C 
+BRANCH  41  42
+ATOM     42  CAU JLS C 303       7.708 -12.525  16.279  1.00 52.87     0.000 C 
+BRANCH  42  43
+ATOM     43  CAV JLS C 303       8.494 -11.557  15.396  1.00 51.67    -0.000 C 
+BRANCH  43  44
+ATOM     44  CAW JLS C 303       8.255 -10.098  15.771  1.00 51.38    -0.005 C 
+ATOM     45  CAX JLS C 303       9.371  -9.549  16.641  1.00 52.95     0.005 C 
+ENDBRANCH  43  44
+ENDBRANCH  42  43
+ENDBRANCH  41  42
+ENDBRANCH  40  41
+ENDBRANCH  39  40
+ENDBRANCH  38  39
+ENDBRANCH  37  38
+ENDBRANCH  35  36
+ENDBRANCH  34  35
+ENDBRANCH  33  34
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  28  29
+ENDBRANCH  27  28
+ENDBRANCH  26  27
+ENDBRANCH  25  26
+ENDBRANCH  24  25
+ENDBRANCH  23  24
+ENDBRANCH  20  23
+ENDBRANCH   1  19
+BRANCH   1  46
+ATOM     46  C3  JLS C 303      24.013  -6.307  17.366  1.00 48.16     0.171 C 
+BRANCH  46  47
+ATOM     47  C4  JLS C 303      23.097  -5.576  18.354  1.00 47.00     0.149 C 
+BRANCH  47  48
+ATOM     48  C5  JLS C 303      22.560  -6.437  19.509  1.00 48.64     0.034 C 
+BRANCH  48  49
+ATOM     49  C6  JLS C 303      21.726  -5.683  20.549  1.00 51.61     0.002 C 
+BRANCH  49  50
+ATOM     50  C7  JLS C 303      20.493  -4.965  19.984  1.00 49.49     0.000 C 
+BRANCH  50  51
+ATOM     51  C8  JLS C 303      19.683  -4.295  21.093  1.00 49.71     0.000 C 
+BRANCH  51  52
+ATOM     52  C9  JLS C 303      20.293  -2.966  21.553  1.00 49.25     0.000 C 
+BRANCH  52  53
+ATOM     53  C10 JLS C 303      19.803  -2.564  22.939  1.00 48.85     0.000 C 
+BRANCH  53  54
+ATOM     54  C11 JLS C 303      20.792  -2.984  24.020  1.00 51.04     0.000 C 
+BRANCH  54  55
+ATOM     55  C12 JLS C 303      21.275  -1.797  24.846  1.00 50.81     0.000 C 
+BRANCH  55  56
+ATOM     56  C13 JLS C 303      21.996  -2.288  26.090  1.00 50.05     0.000 C 
+BRANCH  56  57
+ATOM     57  C14 JLS C 303      23.228  -1.438  26.363  1.00 51.39     0.000 C 
+BRANCH  57  58
+ATOM     58  C15 JLS C 303      23.508  -1.347  27.853  1.00 53.80     0.000 C 
+BRANCH  58  59
+ATOM     59  C16 JLS C 303      24.496  -2.417  28.303  1.00 55.42    -0.000 C 
+BRANCH  59  60
+ATOM     60  C17 JLS C 303      25.279  -1.915  29.505  1.00 57.06    -0.005 C 
+ATOM     61  C18 JLS C 303      25.898  -3.053  30.283  1.00 59.06     0.005 C 
+ENDBRANCH  59  60
+ENDBRANCH  58  59
+ENDBRANCH  57  58
+ENDBRANCH  56  57
+ENDBRANCH  55  56
+ENDBRANCH  54  55
+ENDBRANCH  53  54
+ENDBRANCH  52  53
+ENDBRANCH  51  52
+ENDBRANCH  50  51
+ENDBRANCH  49  50
+ENDBRANCH  48  49
+ENDBRANCH  47  48
+BRANCH  47  62
+ATOM     62  O4  JLS C 303      23.789  -4.409  18.823  1.00 47.02    -0.393 OA
+ATOM     63  H4  JLS C 303      24.121  -3.877  18.109  1.00  0.00     0.210 HD
+ENDBRANCH  47  62
+ENDBRANCH  46  47
+BRANCH  46  64
+ATOM     64  O3  JLS C 303      25.196  -6.769  18.017  1.00 51.74    -0.391 OA
+ATOM     65  H3  JLS C 303      25.630  -6.051  18.462  1.00  0.00     0.210 HD
+ENDBRANCH  46  64
+ENDBRANCH   1  46
+TORSDOF 47
